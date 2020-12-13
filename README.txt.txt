@@ -1,0 +1,1 @@
+Create a database name: student and then create a table name trello and then in trello create 2 columns name email and password. 
